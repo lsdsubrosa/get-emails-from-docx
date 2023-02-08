@@ -1,1 +1,1 @@
-*Small **Python scripts** to automate routine actions*
+* This small python script get email addres from **.docx** *
