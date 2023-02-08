@@ -1,1 +1,1 @@
-*This small python script get email addres from **.docx*
+*This small python script get email addres from **.docx** *
